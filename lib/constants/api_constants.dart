@@ -4,7 +4,7 @@
 import 'dart:io';
 
 class ApiConstants {
-  static const BASE_URL = 'http://62.12.101.94:8080';//'http://62.12.101.62/ApiTest' ;//'http://tweety.sharedwithexpose.com/api';
+  static const BASE_URL = '';
 }
 
 Map<String, String> requestHeaders(String token) {
