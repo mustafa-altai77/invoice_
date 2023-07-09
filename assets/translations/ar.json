@@ -1,0 +1,99 @@
+{
+    "app_name":"نظام الفواتير",
+    "msg_named":"Easy localization are written in the {lang} language",
+    "msg_mixed":"{} are written in the {lang} language",
+    "invoice_gas":"فاتورة جازاويل",
+    "invoice_jas":"فاتورة غاز",
+    "invoice_ben":"فاتورة بنزين",
+    "invoice_reports":"التقارير",
+    "distenation":"الجهة",
+    "quantity":"الكمية",
+    "fueltype":"المنتج",
+    "company":"الشركة",
+    "success":"نجاح",
+    "lbl_letter":"لتر",
+    "vehicle_data":"  بيانات المركبة  ",
+    "invoice_data":"  بيانات الفاتورة  ",
+    "loading_send":"جاري ارسال البيانات ",
+    "lbl_search_invoice":"بحث",
+    "hint_search_invoice":"بحث , رقم , الشركة , محلية",
+    "invoice_id":"رقم الفاتورة",
+    "invoice_details":"تفاصيل الفاتورة",
+    "forget_password_form":{
+        "title":"نسيت كلمة المرور؟",
+        "lbl_email":"ادخل بريدك الالكتروني",
+        "hint__email":"",
+        "btn_send":"ارسال  للاسعادة كلمة المرور",
+        "description":"سيتم ارسال رمز تعين كلمة مرور جديدة لهذا البريد"
+    },
+    
+    "gender":{
+       "male":"Hi man ;) {}",
+       "female":"Hello girl :) {}",
+       "other":"Hello {}"
+    },
+    "login_form":{
+        "title":"بيانات الدخول",
+        "lbl_name":"اسم المستحدم",
+        "lbl_password":"كلمة المرور",
+        "btn_send":"دخول",
+        "hint_name":"",
+        "hint_password":"",
+        "msg":{
+            "error":"",
+            "success":"",
+            "loading":"جاري تسجيل الدخول ....."
+        },
+        "validation":{
+            "email":"خطاء في اسم المسخدم",
+            "password":"خطا في كلمة المرور"
+        }
+    },
+    "invoiceform":{
+        "title":"بيانات الفاتورة",
+        "lbl_id":"رقم الفاتورة",
+        "lbl_companies":"الشركات",
+        "lbl_company":"الشركة",
+        "lbl_quantity":"الكمية",
+        "lbl_quantities":"الكميات",
+        "lbl_locality":"المحلية",
+        "lbl_station":"المحطة",
+        "lbl_stations":"المحطات",
+        "lbl_plate_number":"رقم اللوحة",
+        "lbl_plate_char":"حرف اللوحة",
+        "lbl_driver_name":"اسم السائق",
+        "lbl_driver_phone":"رقم الهاتف",
+        "lbl_profile_id":"رقم الملف ",
+        "lbl_note":"ملاحظات",
+        "hint_id":"ادحل رقم الفاتورة",
+        "hint_company":"اختار الشركة",
+        "hint_quantity":"ادحل الكمية",
+        "hint_locality":"اختر المحلية",
+        "hint_station":"اختر المحطة",
+        "hint_plate_number":"ادخل رقم اللوحة",
+        "hint_plate_char":"اختر حرف اللوحة",
+        "hint_driver_name":"ادخل اسم السائق",
+        "hint_driver_phone":"ادخل رقم الهاتف",
+        "hint_profile_id":"ادخل رقم الملف",
+        "hint_note":"الملاحظات ان وجدت",   
+        "no_note":"لايوجد",     
+        "lbl_search":"ابحث هنا",
+        "btn_send_save": " حفظ و ارسال ",
+        "btn_send":"ارسال فقط",
+        "msg":{
+            "error":"",
+            "success":""
+        },
+        "validation":{
+            "invoice_id":"",
+            "password":""
+        }
+    },
+    "validation":{
+        "required":"هذا الحقل مطلوب",
+        "number":"يجب ان يكون ارقام فقط",
+        "phone":"تحقق من رقم الهاتف",
+        "number_double":"ارقام صحيحة او عشرية",
+        "required_other":"تاكد من ادخال جميع البيانات"
+    }    
+ }
